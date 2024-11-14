@@ -5,6 +5,7 @@ package es.ull.app;
  */
 public class App {
     public static void main(String[] args) {
+        // Print Hello World!
         System.out.println("Hello World!");
     }
 }
